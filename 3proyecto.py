@@ -1,3 +1,20 @@
+"""
+Nombre completo: Cristopher Altamirano Hernandez 
+Titulo: Proyecto 2 - Persistencia, Archivos y Excepciones
+Fecha: 03/11/2026
+Materia: Programacion 3
+Profesor: Diego Alberto Ayala Vazquez
+
+Descripcion: Desarrollar un programa modular en Python que permita 
+ingresar interactiva y de forma segura nuevas conexiones de la red 
+de transporte (nodos y pesos) previniendo errores de usuario con 
+try-except, persista dicha información en un archivo .csv, cargue 
+los nodos e instancie el grafo en memoria para ejecutar el algoritmo
+de Dijkstra (Unidad 1), cumpliendo con estándares profesionales de 
+ingeniería de software (Type Hints, linter con Flake8).
+
+"""
+
 """Script principal interactivo para la gestión de rutas y lugares."""
 
 from pathlib import Path
